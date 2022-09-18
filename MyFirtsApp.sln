@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirtsApp", "MyFirtsApp\MyFirtsApp.csproj", "{EBA84307-4C03-4162-8B57-35E41B8D985F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA84307-4C03-4162-8B57-35E41B8D985F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA84307-4C03-4162-8B57-35E41B8D985F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA84307-4C03-4162-8B57-35E41B8D985F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA84307-4C03-4162-8B57-35E41B8D985F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9E02A7A-FC28-430D-8F52-2B2162886942}
+	EndGlobalSection
+EndGlobal
