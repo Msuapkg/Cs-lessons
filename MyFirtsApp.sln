@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores_Y_Expresiones", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversiones", "Conversiones\Conversiones.csproj", "{9F69F432-9455-41E8-AB0A-3700114A2260}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{51D3E781-F838-444D-881A-ED3FFCA080BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9F69F432-9455-41E8-AB0A-3700114A2260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F69F432-9455-41E8-AB0A-3700114A2260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F69F432-9455-41E8-AB0A-3700114A2260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D3E781-F838-444D-881A-ED3FFCA080BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D3E781-F838-444D-881A-ED3FFCA080BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D3E781-F838-444D-881A-ED3FFCA080BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D3E781-F838-444D-881A-ED3FFCA080BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

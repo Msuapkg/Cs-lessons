@@ -37,7 +37,7 @@ namespace Variables
             //Long - Almacena enteros muy largos (Debe llevar una "L" después del valor asignado).
             long numero = 73000000000L; // Long
             Console.WriteLine(numero); // Retorna 73000000000
-
+          
         }
     }
 }
