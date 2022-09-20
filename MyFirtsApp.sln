@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "MyFirtsApp\Variables.csproj", "{EBA84307-4C03-4162-8B57-35E41B8D985F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "MyFirtsApp\Variables.csproj", "{EBA84307-4C03-4162-8B57-35E41B8D985F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores_Y_Expresiones", "Operadores_Y_Expresiones\Operadores_Y_Expresiones.csproj", "{E2FF87CB-9B56-446B-820F-350963431452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores_Y_Expresiones", "Operadores_Y_Expresiones\Operadores_Y_Expresiones.csproj", "{E2FF87CB-9B56-446B-820F-350963431452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversiones", "Conversiones\Conversiones.csproj", "{9F69F432-9455-41E8-AB0A-3700114A2260}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E2FF87CB-9B56-446B-820F-350963431452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2FF87CB-9B56-446B-820F-350963431452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2FF87CB-9B56-446B-820F-350963431452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F69F432-9455-41E8-AB0A-3700114A2260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F69F432-9455-41E8-AB0A-3700114A2260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F69F432-9455-41E8-AB0A-3700114A2260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F69F432-9455-41E8-AB0A-3700114A2260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
