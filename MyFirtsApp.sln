@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "MyFirtsApp\Var
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores_Y_Expresiones", "Operadores_Y_Expresiones\Operadores_Y_Expresiones.csproj", "{E2FF87CB-9B56-446B-820F-350963431452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversiones", "Conversiones\Conversiones.csproj", "{9F69F432-9455-41E8-AB0A-3700114A2260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversiones", "Conversiones\Conversiones.csproj", "{9F69F432-9455-41E8-AB0A-3700114A2260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{51D3E781-F838-444D-881A-ED3FFCA080BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes", "Constantes\Constantes.csproj", "{51D3E781-F838-444D-881A-ED3FFCA080BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Métodos", "Métodos\Métodos.csproj", "{B84BBF61-6978-416A-9D38-0C62C5C6139D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Métodos II", "Métodos II\Métodos II.csproj", "{BEFCBCE9-195A-4905-801D-399B3C511904}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{51D3E781-F838-444D-881A-ED3FFCA080BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51D3E781-F838-444D-881A-ED3FFCA080BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51D3E781-F838-444D-881A-ED3FFCA080BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84BBF61-6978-416A-9D38-0C62C5C6139D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84BBF61-6978-416A-9D38-0C62C5C6139D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84BBF61-6978-416A-9D38-0C62C5C6139D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84BBF61-6978-416A-9D38-0C62C5C6139D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFCBCE9-195A-4905-801D-399B3C511904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFCBCE9-195A-4905-801D-399B3C511904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFCBCE9-195A-4905-801D-399B3C511904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFCBCE9-195A-4905-801D-399B3C511904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
